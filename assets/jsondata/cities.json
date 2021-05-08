@@ -1,0 +1,22 @@
+{
+ "cities":[
+        {
+            "keyword": "Pune",
+            "id": "1",
+            "autocompleteTerm": "Pune dhankwadi",
+            "country": "India"
+        },
+        {
+            "keyword": "Latur",
+            "id": "2",
+            "autocompleteTerm": "Latur city",
+            "country": "India"
+        },
+        {
+            "keyword": "Hyderabad",
+            "id": "3",
+            "autocompleteTerm": "Hyderabad city",
+            "country": "India"
+        }
+   ]
+}
